@@ -5,6 +5,8 @@ analysing and transforming web visitors data
 
 -Apache Beam
 
--GCP
+-Google Cloud Storage
+
+-Google Dataflow
 
 -Python
