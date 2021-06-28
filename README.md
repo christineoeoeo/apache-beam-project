@@ -1,5 +1,5 @@
 # apache-beam-project
-analysing and transforming web visitors
+analysing and transforming web visitors data
 
 ## Built with
 
